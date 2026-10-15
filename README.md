@@ -12,4 +12,5 @@ We compared simulations with derived analytics.
 ### References
 [^1]: Evans, Martin R., and Satya N. Majumdar. "Diffusion with stochastic resetting." Physical review letters 106.16 (2011): 160601.
 [^2]: Zodage, Aniket, et al. "A sluggish random walk with subdiffusive spread." Journal of Statistical Mechanics: Theory and Experiment 2023.3 (2023): 033211.
-[^3]: Frimpong, Theophilus D. et al. "Sluggish random walks with resetting: nonequilibrium aspects
+[^3]: Frimpong, Theophilus D. et al. "Sluggish random walks with resetting: nonequilibrium aspects" 
+
